@@ -5,3 +5,6 @@ readme
 
 ## Update 2026-08-09 #2
 - Refactored documentation
+
+## Update 2026-08-11 #3
+- Fixed structure
