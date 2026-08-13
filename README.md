@@ -8,3 +8,6 @@ readme
 
 ## Update 2026-08-11 #3
 - Fixed structure
+
+## Update 2026-08-13 #1
+- Fixed examples
