@@ -11,3 +11,6 @@ readme
 
 ## Update 2026-08-13 #1
 - Fixed examples
+
+## Update 2026-08-14 #1
+- Refactored examples
