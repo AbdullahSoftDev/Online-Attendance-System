@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="YOUR_HEADER_IMAGE_URL"
+    src="https://raw.githubusercontent.com/AbdullahSoftDev/Pictures/931cd46e0602553f9141696a8c3dbdb413c0035c/Online%20Attendance%20System.png"
     alt="Online Attendance System — Employee Attendance Management Platform"
     width="100%"
   />
