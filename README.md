@@ -12,10 +12,10 @@
 
 **A WordPress-based employee attendance management system for secure check-in/out, attendance tracking, calendar management, employee administration, and automated absence handling.**
 
-[![PHP](https://img.shields.io/badge/PHP-7%2B-777BB4?style=for-the-badge\&logo=php\&logoColor=white)](https://www.php.net/)
-[![WordPress](https://img.shields.io/badge/WordPress-Plugin-21759B?style=for-the-badge\&logo=wordpress\&logoColor=white)](https://wordpress.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)](https://www.mysql.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-Frontend-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![PHP](https://img.shields.io/badge/PHP-7%2B-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![WordPress](https://img.shields.io/badge/WordPress-Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-Frontend-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](#-license)
 
 </div>
